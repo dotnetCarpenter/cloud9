@@ -1,0 +1,14 @@
+{
+    "name": "ext.titanium",
+    "version": "0.0.1",
+    "main": "extension_template.js",
+    "private": true,
+    "plugin": {
+        "provides": [
+            "ext.titanium"
+        ],
+        "consumes": [
+            "client-plugins"
+        ]
+    }
+}
